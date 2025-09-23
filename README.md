@@ -1,6 +1,7 @@
 # Hiii :D  
 
 > 🐧 Arch btw.  
+
 > ⚡ Fueled by energy drinks, Linux, and random hardware parts on my desk.  
 
 ---
@@ -9,9 +10,8 @@
 I’m a big nerd who loves breaking and fixing things until they work better.  
 My happy place? Somewhere between **electronics** and **code** — preferably when it’s **open-source**.  
 
-- 🐧 Linux is my daily playground (Arch + Hyprland 💜)  
-  (Yes, Hyprland for daily use. No, I’m not okay. Yes, I’m insane.)  
-- ⚡ Arduino tinkerer — currently building MCU stuff for fun (and chaos)  
+- 🐧 Linux is my daily playground (Arch + Hyprland 💜)    
+- ⚡ MCU lover — currently building stuff for fun (and chaos)  
 - 📡 Eager to learn **embedded systems**, **SBCs**, and *anything with blinking LEDs*  
 - 💻 Languages I actually know: `C`, `Java`, `JavaScript`   
 - 🔭 Exploring: low-level programming, IoT, and electronics projects  
@@ -42,10 +42,7 @@ My happy place? Somewhere between **electronics** and **code** — preferably wh
 If you’re into Linux, electronics, open-source, or just chaotic tinkering, feel free to reach out.  
 Fork my stuff, open issues, or just star things to make me feel validated ✨  
 
-[![Email](https://img.shields.io/badge/Email-shibjyotidas999%40proton.me-blue?logo=gmail&logoColor=white)](mailto:shibjyotidas999@proton.me)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/shibjyotidas)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/shi.isnotdifferent)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)]([https://facebook.com/yourhandle](https://www.facebook.com/shibjyoti.das.984))  
+[![Email](https://img.shields.io/badge/Email-dshibjyoti%40proton.me-blue?logo=gmail&logoColor=white)](mailto:dshibjyoti@proton.me) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/shibjyotidas) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/shi.isnotdifferent) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)]([https://facebook.com/yourhandle](https://www.facebook.com/shibjyoti.das.984))  
 
 ---
 
