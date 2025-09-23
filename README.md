@@ -42,7 +42,7 @@ My happy place? Somewhere between **electronics** and **code** — preferably wh
 If you’re into Linux, electronics, open-source, or just chaotic tinkering, feel free to reach out.  
 Fork my stuff, open issues, or just star things to make me feel validated ✨  
 
-[![Email](https://img.shields.io/badge/Email-shibjyotidas999%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:shibjyotidas999@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-shibjyotidas999%40proton.me-blue?logo=gmail&logoColor=white)](mailto:shibjyotidas999@proton.me)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/shibjyotidas)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/shi.isnotdifferent)  
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)]([https://facebook.com/yourhandle](https://www.facebook.com/shibjyoti.das.984))  
